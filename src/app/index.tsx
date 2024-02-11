@@ -10,7 +10,7 @@ import {
 import DayListItem from "@component/core/DayListItem";
 
 
-const days = [...Array(24)].map((val, index) => index + 1);
+const days = [...Array(26)].map((val, index) => index + 1);
 
 export default function HomeScreen() {
 
